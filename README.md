@@ -1,14 +1,13 @@
-# 👋 Hello there!
+# 👋 Hi, I'm Donatien Yeto
 
-I've moved! 🚀  
 This GitHub account **(@dinyad-prog00)** is no longer active.  
+I’ve simply changed my username — you can now find all my work under my new profile:
 
-You can now find me at my new username:  
 👉 [**https://github.com/dyeto**](https://github.com/dyeto)
 
-Please follow or star my new profile to stay up to date with my latest projects and work.  
-Thanks for stopping by — see you on the new account! 🙌
+Please follow me there to stay connected and explore my latest projects! 🚀  
+Thank you for visiting, and see you on the new profile! 🙌
 
 ---
 
-_– Donatien Yeto (aka Dyeto)_
+_Donatien Yeto_
