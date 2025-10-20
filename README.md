@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello there!
 
-<!--
-**dinyad-prog00/dinyad-prog00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've moved! 🚀  
+This GitHub account **(@dinyad-prog00)** is no longer active.  
 
-Here are some ideas to get you started:
+You can now find me at my new username:  
+👉 [**https://github.com/dyeto**](https://github.com/dyeto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please follow or star my new profile to stay up to date with my latest projects and work.  
+Thanks for stopping by — see you on the new account! 🙌
+
+---
+
+_– Donatien Yeto (aka Dyeto)_
